@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berna Özgen</h1>
-<h3 align="center">java backend developer || web backend developer ||backend developer</h3>
+<h3 align="center">java backend developer || Computer Engineer ||backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berna-ozgen&label=Profile%20views&color=0e75b6&style=flat" alt="berna-ozgen" /> </p>
 
