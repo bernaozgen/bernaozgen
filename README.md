@@ -5,7 +5,7 @@
 
 <img align="rigth" src= https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif></p>
 
-
+<div class="align:center">
 - 🔭 I’m currently working on [microservices project](https://github.com/berna-ozgen/microservice)
 
 - 🌱 I’m currently learning **Spring boot**
