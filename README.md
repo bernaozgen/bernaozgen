@@ -1,3 +1,10 @@
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/berna-ozgen?style=flat&logo=github)](https://github.com/berna-ozgen?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/berna-ozgen?style=flat&logo=github&)](https://github.com/berna-ozgen?tab=repositories)
+  
+  </div>
+  
 <h1 align="center">Hi 👋, I'm Berna Özgen</h1>
 <h3 align="center">java backend developer || Computer Engineer || Backend developer</h3><br/>
 
@@ -18,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bernaozgen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/bernaozgen/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bernaozgen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bernaozgen/" height="30" width="40" /></a>
 <a href="https://medium.com/@brnozgen1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brnozgen1998" height="30" width="40" /></a>
 </p>
 
