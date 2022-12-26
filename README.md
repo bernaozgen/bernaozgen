@@ -1,5 +1,5 @@
 <div align="center">
-
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=berna-ozgen.visitor-badge)](https://gitHub.com/berna-ozgen)
 [![GitHub followers](https://img.shields.io/github/followers/berna-ozgen?style=flat&logo=github)](https://github.com/berna-ozgen?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/berna-ozgen?style=flat&logo=github&)](https://github.com/berna-ozgen?tab=repositories)
   
