@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berna-ozgen&label=Profile%20views&color=0e75b6&style=flat" alt="berna-ozgen" /> </p>
 
-<p align="center"><img src= https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif></p>
+<img align="Left" src= https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif></p>
 
 
 - 🔭 I’m currently working on [microservices project](https://github.com/berna-ozgen/microservice)
