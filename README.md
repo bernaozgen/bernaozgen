@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berna-ozgen&label=Profile%20views&color=0e75b6&style=flat" alt="berna-ozgen" /> </p>
 
-<img align="Left" src= https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif></p>
-<p align="rigth">
+<img align="rigth" src= https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif></p>
+
 
 - 🔭 I’m currently working on [microservices project](https://github.com/berna-ozgen/microservice)
 
@@ -17,7 +17,7 @@
 - 💬 Ask me about **java Spring boot and Microservice Architecture**
 
 - 📫 How to reach me **brnozgen@hotmail.com**
-</p>
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
