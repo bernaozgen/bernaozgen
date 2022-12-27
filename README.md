@@ -1,4 +1,3 @@
-
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/berna-ozgen?style=flat&logo=github)](https://github.com/berna-ozgen?tab=followers)
