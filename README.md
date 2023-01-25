@@ -1,8 +1,8 @@
 <div align="center">
   
-[![GitHub followers](https://img.shields.io/github/followers/berna-ozgen?style=flat&logo=github)](https://github.com/berna-ozgen?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/berna-ozgen?style=flat&logo=github&)](https://github.com/berna-ozgen?tab=repositories)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=berna-ozgen.visitor-badge)](https://gitHub.com/berna-ozgen)
+[![GitHub followers](https://img.shields.io/github/followers/bernaozgen?style=flat&logo=github)](https://github.com/bernaozgen?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/bernaozgen?style=flat&logo=github&)](https://github.com/bernaozgen?tab=repositories)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=bernaozgen.visitor-badge)](https://gitHub.com/bernaozgen)
   
 </div>
   
@@ -40,15 +40,15 @@
 <p align="center">
   <p>
     <a href="https://github.com/berna-ozgen" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=berna-ozgen&count_private=true&show_icons=true&theme=nord">
+    <img src="https://github-readme-stats.vercel.app/api?username=bernaozgen&count_private=true&show_icons=true&theme=nord">
       </a>
 </p>
   <p>
   <a href="https://github.com/berna-ozgen" target="_blank">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=berna-ozgen&theme=nord&date_format=j%20M%5B%20Y%5D" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bernaozgen&theme=nord&date_format=j%20M%5B%20Y%5D" />
   </a>
   </p>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=berna-ozgen&theme=nord)](https://github.com/berna-ozgen)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bernaozgen&theme=nord)](https://github.com/bernaozgen)
 </div>
 </div>
