@@ -8,15 +8,16 @@
   
 <h1 align="center">Hi 👋, I'm Berna Özgen</h1>
 <h3 align="center">java backend developer || Computer Engineer || Backend developer</h3><br/>
-
-<p align="center"><img src= https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif></p>
+<div  >
+<p align="center"><img src= https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif width="350" height="250"></p>
 <br/>
-<div align="center">
- 🔭 I’m currently working on [microservices project](https://github.com/berna-ozgen/microservice)
+</div  >
+<div align="center"  >
+ 🔭 I’m currently working on [microservices project](https://github.com/bernaozgen/microservice)
 
- 🌱 I’m currently learning **Spring boot**
+ 🌱 I’m currently learning **java,Spring boot**
 
- 👨‍💻 All of my projects are available at [https://github.com/berna-ozgen?tab=repositories](https://github.com/berna-ozgen?tab=repositories)
+ 👨‍💻 All of my projects are available at [https://github.com/berna-ozgen?tab=repositories](https://github.com/bernaozgen?tab=repositories)
 
  📝 I regularly write articles on [https://medium.com/@brnozgen1998](https://medium.com/@brnozgen1998)
 
