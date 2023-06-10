@@ -2,8 +2,7 @@
   
 [![GitHub followers](https://img.shields.io/github/followers/bernaozgen?style=flat&logo=github)](https://github.com/bernaozgen?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/bernaozgen?style=flat&logo=github&)](https://github.com/bernaozgen?tab=repositories)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=bernaozgen.visitor-badge)](https://gitHub.com/bernaozgen)
-  
+![](https://komarev.com/ghpvc/?username=bernaozgen&label=profile+views)
 </div>
   
 <h1 align="center">Hi 👋, I'm Berna Özgen</h1>
@@ -51,6 +50,6 @@
   </a>
   </p>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bernaozgen&theme=nord)](https://github.com/bernaozgen)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bernaozgen&theme=nord)](https://github.com/bernaozgen)
 </div>
 </div>
